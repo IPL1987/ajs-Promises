@@ -70,3 +70,4 @@ GameSavingLoader.load().then((saving) => {
   // ...
 });
 ```
+[![Build status](https://ci.appveyor.com/api/projects/status/do4qgw6xh31399xt/branch/main?svg=true)](https://ci.appveyor.com/project/IPL1987/ajs-promises/branch/main)
